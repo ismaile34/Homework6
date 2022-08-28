@@ -1,0 +1,15 @@
+G:\Мой диск\1_GeekBrains\Четверть I\4.Знакомство с языками программирования\Семинары\Homework6\exercise2\bin\Debug\net6.0\exercise2.exe
+G:\Мой диск\1_GeekBrains\Четверть I\4.Знакомство с языками программирования\Семинары\Homework6\exercise2\bin\Debug\net6.0\exercise2.deps.json
+G:\Мой диск\1_GeekBrains\Четверть I\4.Знакомство с языками программирования\Семинары\Homework6\exercise2\bin\Debug\net6.0\exercise2.runtimeconfig.json
+G:\Мой диск\1_GeekBrains\Четверть I\4.Знакомство с языками программирования\Семинары\Homework6\exercise2\bin\Debug\net6.0\exercise2.dll
+G:\Мой диск\1_GeekBrains\Четверть I\4.Знакомство с языками программирования\Семинары\Homework6\exercise2\bin\Debug\net6.0\exercise2.pdb
+G:\Мой диск\1_GeekBrains\Четверть I\4.Знакомство с языками программирования\Семинары\Homework6\exercise2\obj\Debug\net6.0\exercise2.csproj.AssemblyReference.cache
+G:\Мой диск\1_GeekBrains\Четверть I\4.Знакомство с языками программирования\Семинары\Homework6\exercise2\obj\Debug\net6.0\exercise2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\1_GeekBrains\Четверть I\4.Знакомство с языками программирования\Семинары\Homework6\exercise2\obj\Debug\net6.0\exercise2.AssemblyInfoInputs.cache
+G:\Мой диск\1_GeekBrains\Четверть I\4.Знакомство с языками программирования\Семинары\Homework6\exercise2\obj\Debug\net6.0\exercise2.AssemblyInfo.cs
+G:\Мой диск\1_GeekBrains\Четверть I\4.Знакомство с языками программирования\Семинары\Homework6\exercise2\obj\Debug\net6.0\exercise2.csproj.CoreCompileInputs.cache
+G:\Мой диск\1_GeekBrains\Четверть I\4.Знакомство с языками программирования\Семинары\Homework6\exercise2\obj\Debug\net6.0\exercise2.dll
+G:\Мой диск\1_GeekBrains\Четверть I\4.Знакомство с языками программирования\Семинары\Homework6\exercise2\obj\Debug\net6.0\refint\exercise2.dll
+G:\Мой диск\1_GeekBrains\Четверть I\4.Знакомство с языками программирования\Семинары\Homework6\exercise2\obj\Debug\net6.0\exercise2.pdb
+G:\Мой диск\1_GeekBrains\Четверть I\4.Знакомство с языками программирования\Семинары\Homework6\exercise2\obj\Debug\net6.0\exercise2.genruntimeconfig.cache
+G:\Мой диск\1_GeekBrains\Четверть I\4.Знакомство с языками программирования\Семинары\Homework6\exercise2\obj\Debug\net6.0\ref\exercise2.dll
